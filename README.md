@@ -1,7 +1,7 @@
 # Hello Websphere Liberty Profile With Arquillian
 This is an example that shows how to integrate arquillian with WLP (websphere liberty profile) 8.5.
 
-##How to run this example
+#How to run this example
 To run this example you should have WLP version 8.5 or higher and maven.
 Follow these steps:
 
@@ -18,6 +18,6 @@ Follow these steps:
 -   localConnector-1.0
 6.  Execute this command:
 -   mvn clean package
-###Description
+#Description
 As you can see in this example, **CDI injection** is tested. 
 if you want to use intellij idea to run test you can use debug-websphere container qualifier to debug your code. 
